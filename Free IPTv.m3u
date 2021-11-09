@@ -81,3 +81,21 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla",Colors Bangla
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
+
+
+***************************************************
+
+#EXTINF:-63 tvg-logo="" group-title="Documentary",Discovery English HD
+#https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
+http://172.17.50.112/live/antbd1008/index.m3u8
+#EXTINF:-66 tvg-logo="" group-title="Documentary",NAT GEO HD Bangla
+https://last.gcdn.co/IND414/index.m3u8
+
+#EXTINF:-68 tvg-logo="" group-title="Documentary",Travel Tv HD
+https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w1084546598_b2128000_slbul.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",BBC Earth
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary", Animal Planet HD
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-73 tvg-logo="" group-title="Documentary",Nasa tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
